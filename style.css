@@ -1,9 +1,26 @@
 h1 {
     text-align: center;
-    color: purple;
-    font-family: Arial Narrow Bold;
+    color: white;
+    font-family: "Arial Narrow Bold";
     font-size: 100px;
     
 }
 
+.list_headers{
+    color: black;
+    font-size: 40px;
 
+}
+
+.bullets{
+    color: black;
+    font-size: 25px
+}
+
+
+div{
+    background-color: orange;
+    margin-left: 20%;
+    margin-right: auto;
+    width: 70%;
+}
