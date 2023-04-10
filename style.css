@@ -16,10 +16,12 @@ h1 {
     color: black;
     font-size: 25px
 }
-
+.program{
+    width: 400px;
+}
 
 div{
-    background-color: orange;
+    background-color: blue;
     margin-left: 20%;
     margin-right: auto;
     width: 70%;
